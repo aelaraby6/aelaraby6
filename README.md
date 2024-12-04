@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Abdelrahman Elaraby
-🎓 **CS student at Zagazig University**  
+🎓 **Computer Science student at Zagazig University**  
 💻 **Passionate about Front-End Development, Data Analysis**  
 
 ---
 
 ### 🌟 **Tech & Interests**
-- 🔭 I’m currently learning **React**, **Tailwind**, and **Excel for Data Analysis**.
+- 🔭 I’m currently learning **React**, **Tailwind**, and **SQL for Data Analysis**.
 - 👥 I’m looking to collaborate on **front-end and data analysis projects**.
-- 🤔 I’m looking for help with **machine learning and visualizations**.
-- 📫 How to reach me: abdelrahmanelaraby@example.com
+- 📫 How to reach me: abdelrahman.elaraby777@gmail.com
 
 ---
 
-### 🛠️ **Skills & Tools**
+### 🛠️ **Skills**
 #### Languages:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,12 +20,17 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### Tools & Frameworks:
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
 ### 📡 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aelaraby2/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aelaraby_ae)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abdelrahman_ela4)
+
