@@ -1,26 +1,33 @@
-### 👋 Hi, I’m Abdelrahman Elaraby 
-
-- 👀 I’m interested in **Data Analysis and Front-End Development**   
-- 💞️ I’m looking to collaborate on **innovative projects in data visualization, front-end development**
+# 👋 Hi, I'm Abdelrahman Elaraby
+🎓 **CS student at Zagazig University**  
+💻 **Passionate about Front-End Development, Data Analysis**  
 
 ---
 
-### 🛠️ Languages and Tools:  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+### 🌟 **Tech & Interests**
+- 🔭 I’m currently learning **React**, **Tailwind**, and **Excel for Data Analysis**.
+- 👥 I’m looking to collaborate on **front-end and data analysis projects**.
+- 🤔 I’m looking for help with **machine learning and visualizations**.
+- 📫 How to reach me: abdelrahmanelaraby@example.com
 
-#### 🚀 About Me  
-- 🎓 I'm a second-year computer science student at Zagazig University   
-- 👨‍💻 I have experience in **C++, front-end development**  
-- 🔭 My goal is to create projects that help humanity and solve big challenges using programming and AI.  
+---
 
+### 🛠️ **Skills & Tools**
+#### Languages:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<!---
-aelaraby6/aelaraby6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Tools & Frameworks:
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📡 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
