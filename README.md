@@ -21,7 +21,6 @@ int main() {
 ---
 
 ### 🌟 **Tech & Interests**
-- 🔭 I’m currently learning **React**, **Tailwind**, and **SQL for Data Analysis**.
 - 👥 I’m looking to collaborate on **front-end and data analysis projects**.
 - 📫 How to reach me: abdelrahman.elaraby777@gmail.com
 
