@@ -28,7 +28,7 @@ int main() {
 
 ### 🛠️ **Skills**
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c++,js,html,css)](https://skillicons.dev)
 
 #### Tools & Frameworks:
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
