@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Abdelrahman Elaraby
+![Abdelrahman Elaraby](https://path/to/your/animated.gif)
+
 
 ```cpp
 #include <iostream>
