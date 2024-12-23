@@ -1,4 +1,4 @@
-<img src="https://assets7.lottiefiles.com/packages/lf20_xjyju5.json" width="200" height="200"/>
+![Typing animation of Abdelrahman Elaraby](https://link-to-your-created-gif.gif)
 
 
 ```cpp
