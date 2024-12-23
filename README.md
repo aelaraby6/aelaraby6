@@ -1,5 +1,4 @@
-![Typing animation of Abdelrahman Elaraby](https://link-to-your-created-gif.gif)
-
+# 👋 Hi, I'm Abdelrahman Elaraby
 
 ```cpp
 #include <iostream>
