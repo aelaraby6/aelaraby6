@@ -1,4 +1,4 @@
-![Abdelrahman Elaraby](https://path/to/your/animated.gif)
+<img src="https://assets7.lottiefiles.com/packages/lf20_xjyju5.json" width="200" height="200"/>
 
 
 ```cpp
