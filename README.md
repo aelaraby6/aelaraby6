@@ -25,6 +25,8 @@ int main() {
 - 📫 How to reach me: abdelrahman.elaraby777@gmail.com
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=python,cpp&perline=3)](https://skillicons.dev)
+
 
 ### 📡 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/)  
