@@ -24,6 +24,9 @@ int main() {
 - 👥 I’m looking to collaborate on **front-end and data analysis projects**.
 - 📫 How to reach me: abdelrahman.elaraby777@gmail.com
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,bootstrap&perline=3)](https://skillicons.dev)
+
 ---
 
 
