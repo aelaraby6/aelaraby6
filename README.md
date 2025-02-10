@@ -25,7 +25,7 @@ int main() {
 - 📫 How to reach me: abdelrahman.elaraby777@gmail.com
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,html,css,sass,bootstra,mysqlp&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,html,css,sass,bootstrap,mysqlp&perline=9)](https://skillicons.dev)
 
 
 ---
