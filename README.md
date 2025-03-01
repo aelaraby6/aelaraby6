@@ -17,17 +17,7 @@ int main() {
     return 0;
 }
 
-```
----
-
-### 🌟 **Tech & Interests**
-- 👥 I’m looking to collaborate on **front-end and data analysis projects**.
-- 📫 How to reach me: abdelrahman.elaraby777@gmail.com
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,sass,bootstrap&perline=9)](https://skillicons.dev)
-
-
+``
 ---
 
 
