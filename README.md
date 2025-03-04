@@ -16,5 +16,3 @@ int main() {
     me.introduce();
     return 0;
 }
-
-``
