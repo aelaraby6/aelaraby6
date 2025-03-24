@@ -7,7 +7,7 @@ class AbdelrahmanElaraby {
 public:
     void introduce() {
         std::cout << "Hi, I'm Abdelrahman Elaraby, a CS student at Zagazig University.\n";
-        std::cout << "Passionate about Front-End Development, Data Analysis, and continuous learning.\n";
+        std::cout << "Passionate about Full-Stack Development and continuous learning.\n";
     }
 };
 
