@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdelrahman Elaraby
 
-![Animated GIF](https://your-link-to-gif.com/image.gif)
+![My GIF](https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif)
+
 
 
 ```cpp
