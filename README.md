@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Abdelrahman Elaraby
 
-![My GIF](https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif)
-
-
-
 ```cpp
 #include <iostream>
 
@@ -20,3 +16,8 @@ int main() {
     me.introduce();
     return 0;
 }
+```
+
+![My GIF](https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif)
+
+
