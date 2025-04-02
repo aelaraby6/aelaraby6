@@ -27,7 +27,7 @@ int main() {
         </p>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif" width="200px">
+        <img src="https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif" width="400px">
       </td>
     </tr>
   </table>
