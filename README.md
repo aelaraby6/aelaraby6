@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Abdelrahman Elaraby
 
+![Animated GIF](https://your-link-to-gif.com/image.gif)
+
+
 ```cpp
 #include <iostream>
 
