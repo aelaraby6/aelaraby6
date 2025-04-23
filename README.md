@@ -25,6 +25,9 @@ int main() {
         <p>
           🚀 Always learning and building new projects.<br>
         </p>
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=aelaraby6&label=Profile%20views&color=0e75b6&style=flat" alt="aelaraby6" />
+        </p>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif" width="400px">
@@ -34,16 +37,16 @@ int main() {
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/your-username" target="_blank">
+  <a href="https://codeforces.com/profile/aelaraby_ae" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-username/" target="_blank">
+  <a href="https://leetcode.com/u/aelaraby2/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/your-username" target="_blank">
+  <a href="https://www.hackerrank.com/profile/abdelrahman_ela4" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
