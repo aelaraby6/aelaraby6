@@ -53,8 +53,6 @@ int main() {
 
 ---
 
----
-
 <h2 align="center">📂 ABOUTME.txt</h2>
 
 <p align="center">
@@ -63,26 +61,33 @@ int main() {
 
 ---
 
-### 💡 My work blends <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Data-Driven Development</strong>, while always focusing on <strong>clean code</strong> and <strong>solid architecture</strong>.  
-### 🚀 I’m currently improving my skills in <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Express</strong>.
+<p align="center">
+  <em>💡 My work blends Frontend, Backend and Data-Driven Development , while always focusing on  clean code  and solid architecture.  
+</em>
+</p>
+
+<p align="center">
+  <em> I’m currently improving my skills in TypeScript, React, and Express  
+</em>
+</p>
 
 ---
 
-<table align="center">
-  <tr>
-    <th>⚙️ Currently Learning</th>
-    <th>💭 Interests</th>
-    <th>🏆 What Drives Me</th>
-  </tr>
-  <tr>
-    <td align="center">Advanced backend design, RESTful APIs, and data visualization.</td>
-    <td align="center">Backend, Frontend, Data Analysis, Problem Solving.</td>
-    <td align="center">Creating useful projects, collaborating with others, and pushing my limits.</td>
-  </tr>
-</table>
 
----
+<img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" align="right" width="150"/>
 
-<div align="center">
-  <img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" width="400px" />
-</div>
+### ⚙️ Currently Learning
+- Advanced backend design
+- RESTful APIs
+- Data visualization
+
+### 💭 Interests
+- Backend
+- Frontend
+- Data Analysis
+- Problem Solving
+
+### 🏆 What Drives Me
+- Creating useful projects
+- Collaborating with others
+- Pushing my limits
