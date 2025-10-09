@@ -74,7 +74,7 @@ int main() {
 ---
 
 
-<img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" align="right" width="150"/>
+<img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" align="right" width="200" height = "400"/>
 
 ### ⚙️ Currently Learning
 - Advanced backend design
