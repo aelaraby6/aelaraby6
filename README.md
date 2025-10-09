@@ -53,25 +53,36 @@ int main() {
 
 ---
 
-## 📂 ABOUTME.txt  
-
-I enjoy building modern web applications, analyzing data, and constantly learning new technologies that make a real impact. 🌍  
-
-💡 My work blends **frontend**, **backend**, and **data-driven development**, while always focusing on clean code and solid architecture.  
-🚀 I’m currently improving my skills in **TypeScript**, **React**, and **Express** 
 ---
 
-| ⚙️ Currently Learning | 💭 Interests | 🏆 What Drives Me |
-|------------------------|--------------|------------------|
-| Advanced backend design, RESTful APIs, and data visualization. | Backend, Frontend, Data Analysis, Problem Solving. | Creating useful projects, collaborating with others, and pushing my limits. |
+<h2 align="center">📂 ABOUTME.txt</h2>
+
+<p align="center">
+  <em>I enjoy building modern web applications, analyzing data, and constantly learning new technologies that make a real impact 🌍</em>
+</p>
+
+---
+
+### 💡 My work blends <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Data-Driven Development</strong>, while always focusing on <strong>clean code</strong> and <strong>solid architecture</strong>.  
+### 🚀 I’m currently improving my skills in <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Express</strong>.
+
+---
+
+<table align="center">
+  <tr>
+    <th>⚙️ Currently Learning</th>
+    <th>💭 Interests</th>
+    <th>🏆 What Drives Me</th>
+  </tr>
+  <tr>
+    <td align="center">Advanced backend design, RESTful APIs, and data visualization.</td>
+    <td align="center">Backend, Frontend, Data Analysis, Problem Solving.</td>
+    <td align="center">Creating useful projects, collaborating with others, and pushing my limits.</td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-  <a href="https://aelaraby6.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-1E1E2E?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
+  <img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" width="400px" />
 </div>
-
-<div align="center">
-  <img src="https://tenor.com/view/detective-conan-gif-14525502" width="400px">
-</div>
-
