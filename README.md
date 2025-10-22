@@ -19,24 +19,6 @@ int main() {
 ```
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <p>
-          🚀 Always learning and building new projects.<br>
-        </p>
-        <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=aelaraby6&label=Profile%20views&color=0e75b6&style=flat" alt="aelaraby6" />
-        </p>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/aelaraby6/aelaraby6/main/Robot.gif" width="400px">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -51,43 +33,63 @@ int main() {
   </a>
 </div>
 
----
 
-<h2 align="center">📂 ABOUTME.txt</h2>
-
-<p align="center">
-  <em>I enjoy building modern web applications, analyzing data, and constantly learning new technologies that make a real impact 🌍</em>
-</p>
 
 ---
-
-<p align="center">
-  <em>💡 My work blends Frontend, Backend and Data-Driven Development , while always focusing on  clean code  and solid architecture.  
-</em>
-</p>
-
-<p align="center">
-  <em> I’m currently improving my skills in TypeScript, React, and Express  
-</em>
-</p>
-
----
-
 
 <img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" align="right" width="400" />
 
+### 👤 About Me
+
+- 💻 **Backend Core Team at [GDG Zagazig](https://bit.ly/47fb7g5)**
+- 🎯 **HR Head at [ICPC Zagazig Community](https://icpczagazig.org/)**
+- 🎓 **Frontend Summer Training 2025 at ITI**
+
 ### ⚙️ Currently Learning
+
 - Advanced backend design
-- RESTful APIs
+- RESTful APIs & Microservices
 - Data visualization
 
 ### 💭 Interests
-- Backend
-- Frontend
-- Data Analysis
-- Problem Solving
 
-### 🏆 What Drives Me
-- Creating useful projects
-- Collaborating with others
-- Pushing my limits
+- Fullstack Development
+- Data Analysis
+- Competitive Programming
+
+<br clear="right"/>
+
+---
+
+## 📚 Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+**Mearn Stack**
+- [`Rochetta`](https://github.com/aelaraby6/Rochetta)
+- [`Authify`](https://github.com/aelaraby6/Authify)
+
+**Python**
+- [`HR Tracker`](https://github.com/aelaraby6/HR-Tracker)
+- [`Library-Management-System`](https://github.com/aelaraby6/Library-Management-System)
+
+</td>
+<td width="50%">
+
+**C++**
+- [`Bash-Elbalad`](https://github.com/r6mez/Bash-Elbalad)
+- [`Neural Network From Scratch`](https://github.com/aelaraby6/Neural-Network-From-Scratch)
+- [`Contact Manager Book`](https://github.com/aelaraby6/Contact-Manager-Book)
+- [`Quran Audio Player`](https://github.com/aelaraby6/Quaran-playlist-Manager)
+
+**Js**
+- [`Monte Carlo Pi Estimation`](https://github.com/aelaraby6/Monte-Carlo-Pi-Estimation)
+- [`Pokemon Game`](https://github.com/aelaraby6/Pokemon-Game)
+- [`ClimaBot`](https://github.com/aelaraby6/ClimaBot)
+- [`2048-Game`](https://github.com/aelaraby6/2048-Game)
+
+</td>
+</tr>
+</table>
