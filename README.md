@@ -41,15 +41,11 @@ int main() {
 
 ### 👤 About Me
 
-- 💻 **Backend Core Team at [GDG Zagazig](https://bit.ly/47fb7g5)**
-- 🎯 **HR Head at [ICPC Zagazig Community](https://icpczagazig.org/)**
-- 🎓 **Frontend Summer Training 2025 at ITI**
+- **Backend Intern at [Elmakan Systems](https://elmakan-systems.com/)**
+- **Frontend Summer Training 2025 at ITI**
+- **Backend Core Team at [GDG Zagazig](https://bit.ly/47fb7g5)**
+- **HR Head at [ICPC Zagazig Community](https://icpczagazig.org/)**
 
-### ⚙️ Currently Learning
-
-- Advanced backend design
-- RESTful APIs & Microservices
-- Data visualization
 
 ### 💭 Interests
 
@@ -63,11 +59,13 @@ int main() {
 
 ## 📚 Repositories
 
-**MERN Stack -** [Rochetta](https://github.com/aelaraby6/Rochetta) **-** [Authify](https://github.com/aelaraby6/Authify)
+**Full Stack -** [Rochetta](https://github.com/aelaraby6/Rochetta) **-**  [Learnova](https://github.com/aelaraby6/Learnova) **-** [Authify](https://github.com/aelaraby6/Authify)
 
 **Python -** [HR Tracker](https://github.com/aelaraby6/HR-Tracker) **-** [Library Management System](https://github.com/aelaraby6/Library-Management-System)
 
 **C++ -** [Bash-Elbalad](https://github.com/r6mez/Bash-Elbalad) **-** [Neural Network From Scratch](https://github.com/aelaraby6/Neural-Network-From-Scratch) **-** [Contact Manager Book](https://github.com/aelaraby6/Contact-Manager-Book) **-** [Quran Audio Player](https://github.com/aelaraby6/Quaran-playlist-Manager)
 
 **JavaScript -** [Monte Carlo Pi Estimation](https://github.com/aelaraby6/Monte-Carlo-Pi-Estimation) **-** [Pokemon Game](https://github.com/aelaraby6/Pokemon-Game) **-** [ClimaBot](https://github.com/aelaraby6/ClimaBot) **-** [2048 Game](https://github.com/aelaraby6/2048-Game)
+
+**Java -** [EchoSteps](https://github.com/AhmedNAgy25/EchoSteps)
 
