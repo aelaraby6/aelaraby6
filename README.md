@@ -43,9 +43,6 @@ int main() {
 
 - **Backend Intern at [Elmakan Systems](https://elmakan-systems.com/)**
 - **Frontend Summer Training 2025 at ITI**
-- **Backend Core Team at [GDG Zagazig](https://bit.ly/47fb7g5)**
-- **HR Head at [ICPC Zagazig Community](https://icpczagazig.org/)**
-
 
 ### 💭 Interests
 
