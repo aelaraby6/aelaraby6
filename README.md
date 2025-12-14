@@ -19,7 +19,7 @@ int main() {
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
 <h4>
-Hey <a href=#><img src="wave.gif" width="20px"></a>, I'm Abdelrahman. 
+Hey, I'm Abdelrahman. 
 I'm passionate about software engineering 👨‍💻, AI 🤖, problem solving 🧠, and game development 🎮. 
 I enjoy building scalable systems, writing clean and efficient code, 
 and learning by creating real-world projects 🌎.
@@ -40,46 +40,34 @@ and learning by creating real-world projects 🌎.
 
 <details open>
   <summary><h3 align="left">🌐 Connect with me:</h3></summary>
-
-  <code>
+  <p align="left">
     <a href="https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
            alt="abdelrahman-elaraby"
            height="30"
            width="40" />
     </a>
-  </code>
-
-  <code>
     <a href="https://codeforces.com/profile/aelaraby_ae" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
            alt="aelaraby_ae"
            height="30"
            width="40" />
     </a>
-  </code>
-
-  <code>
     <a href="https://leetcode.com/u/aelaraby2/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
            alt="aelaraby2"
            height="30"
            width="40" />
     </a>
-  </code>
-
-  <code>
     <a href="https://www.hackerrank.com/profile/abdelrahman_ela4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
            alt="abdelrahman_ela4"
            height="30"
            width="40" />
     </a>
-  </code>
+  </p>
 </details>
-
 <br>
-
 <table>
   <tr>
     <td>
@@ -98,7 +86,6 @@ and learning by creating real-world projects 🌎.
     </td>
   </tr>
 </table>
-
 <hr>
 
 ## Projects
