@@ -7,7 +7,6 @@ class AbdelrahmanElaraby {
 public:
     void introduce() {
         std::cout << "Hi, I'm Abdelrahman Elaraby, a CS student at Zagazig University.\n";
-        std::cout << "Passionate about Full-Stack Development and continuous learning.\n";
     }
 };
 
@@ -17,44 +16,92 @@ int main() {
     return 0;
 }
 ```
+<table><th><h2 align="center">ABOUTME.txt</h2></th>
+<tr><td>
+<h4>
+Hey <a href=#><img src="wave.gif" width="20px"></a>, I'm Abdelrahman. 
+I'm passionate about software engineering 👨‍💻, AI 🤖, problem solving 🧠, and game development 🎮. 
+I enjoy building scalable systems, writing clean and efficient code, 
+and learning by creating real-world projects 🌎.
+</h4>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/aelaraby_ae" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/aelaraby2/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/abdelrahman_ela4" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</div>
+<a href=#>
+  <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
+       alt="Tech"
+       align="right"
+       width="50%">
+</a>
 
+> 🔭 I’m currently learning **problem solving techniques, optimization, and artificial intelligence**
 
+> 💡 I’m especially interested in **software engineering**, **backend systems**, and building solutions that are **efficient**, **reliable**, and **scalable**.
 
----
+> 🏆 Hackathons, open-source projects, and challenging problems fuel my curiosity and growth.
 
-<img src="https://media.tenor.com/ySTESf7LGvUAAAAi/detective-conan.gif" align="right" width="400" />
+<details open>
+  <summary><h3 align="left">🌐 Connect with me:</h3></summary>
 
-### 👤 About Me
+  <code>
+    <a href="https://www.linkedin.com/in/abdelrahman-elaraby-a06a492a5/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+           alt="abdelrahman-elaraby"
+           height="30"
+           width="40" />
+    </a>
+  </code>
 
-- **Backend Intern at [Elmakan Systems](https://elmakan-systems.com/)**
-- **Frontend Summer Training 2025 at ITI**
+  <code>
+    <a href="https://codeforces.com/profile/aelaraby_ae" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+           alt="aelaraby_ae"
+           height="30"
+           width="40" />
+    </a>
+  </code>
 
-### 💭 Interests
+  <code>
+    <a href="https://leetcode.com/u/aelaraby2/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+           alt="aelaraby2"
+           height="30"
+           width="40" />
+    </a>
+  </code>
 
-- Fullstack Development
-- Data Analysis
-- Competitive Programming
+  <code>
+    <a href="https://www.hackerrank.com/profile/abdelrahman_ela4" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+           alt="abdelrahman_ela4"
+           height="30"
+           width="40" />
+    </a>
+  </code>
+</details>
 
-<br clear="right"/>
+<br>
 
----
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media.tenor.com/9dJj6U1G7kMAAAAC/detective-conan-thinking.gif"
+             align="left"
+             width="100">
+      </a>
+      <h4 align="right">View Count</h4>
+      <a href="#">
+        <img src="https://profile-counter.glitch.me/abdelrahman-elaraby/count.svg"
+             alt="View Count"
+             width="200"
+             align="right">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📚 Repositories
+<hr>
+
+## Projects
 
 **Full Stack -** [Rochetta](https://github.com/aelaraby6/Rochetta) **-**  [Learnova](https://github.com/aelaraby6/Learnova) **-** [Authify](https://github.com/aelaraby6/Authify)
 
