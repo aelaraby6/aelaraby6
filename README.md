@@ -66,27 +66,11 @@ and learning by creating real-world projects 🌎.
            width="40" />
     </a>
   </p>
+  <br>
+  <p align="center">
+    <img src="https://media.tenor.com/9dJj6U1G7kMAAAAC/detective-conan-conan-edogawa.gif" width="300" alt="Detective Conan Thinking">
+  </p>
 </details>
-<br>
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img src="https://media.tenor.com/9dJj6U1G7kMAAAAC/detective-conan-thinking.gif"
-             align="left"
-             width="100">
-      </a>
-      <h4 align="right">View Count</h4>
-      <a href="#">
-        <img src="https://profile-counter.glitch.me/abdelrahman-elaraby/count.svg"
-             alt="View Count"
-             width="200"
-             align="right">
-      </a>
-    </td>
-  </tr>
-</table>
-<hr>
 
 ## Projects
 
