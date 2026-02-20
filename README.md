@@ -67,6 +67,13 @@ and learning by creating real-world projects 🌎.
     </a>
   </p>
   <br>
+    <br>
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/12CSPwuv74t7ZLhUirRA0C7R5MoKGVZwz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-191919?style=for-the-badge&logo=readthedocs&logoColor=f4a460" />
+  </a>
+</p>
   <p align="center">
     <img src="https://media.tenor.com/9dJj6U1G7kMAAAAC/detective-conan-conan-edogawa.gif" width="300" alt="Detective Conan Thinking">
   </p>
@@ -74,7 +81,7 @@ and learning by creating real-world projects 🌎.
 
 ## Projects
 
-**Full Stack -** [Rochetta](https://github.com/aelaraby6/Rochetta) **-**  [Learnova](https://github.com/aelaraby6/Learnova) **-** [Authify](https://github.com/aelaraby6/Authify)
+**Full Stack -** [Business-Incubator-Platform-DBMS](https://github.com/aelaraby6/Business-Incubator-Platform-DBMS) **-** [Rochetta](https://github.com/aelaraby6/Rochetta) **-**  [Learnova](https://github.com/aelaraby6/Learnova) **-** [Authify](https://github.com/aelaraby6/Authify)
 
 **Frontend -** [Ketabak](https://github.com/aelaraby6/Ketabak)
 
