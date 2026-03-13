@@ -36,8 +36,6 @@ and learning by creating real-world projects 🌎.
 
 > 💡 I’m especially interested in **software engineering**, **backend systems**, and building solutions that are **efficient**, **reliable**, and **scalable**.
 
-> 🏆 Hackathons, open-source projects, and challenging problems fuel my curiosity and growth.
-
 <details open>
   <summary><h3 align="left">🌐 Connect with me:</h3></summary>
   <p align="left">
