@@ -1,21 +1,5 @@
 # 👋 Hi, I'm Abdelrahman Elaraby
 
-```cpp
-#include <iostream>
-
-class AbdelrahmanElaraby {
-public:
-    void introduce() {
-        std::cout << "Hi, I'm Abdelrahman Elaraby, a CS student at Zagazig University.\n";
-    }
-};
-
-int main() {
-    AbdelrahmanElaraby me;
-    me.introduce();
-    return 0;
-}
-```
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
 <h4>
