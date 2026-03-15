@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Abdelrahman Elaraby
-
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
 <h4>
