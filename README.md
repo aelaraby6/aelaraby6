@@ -50,7 +50,7 @@ and learning by creating real-world projects 🌎.
     <br>
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/12CSPwuv74t7ZLhUirRA0C7R5MoKGVZwz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1wF-k0QfjdrlvgOMkRjb5KByOKyXsVyxF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-191919?style=for-the-badge&logo=readthedocs&logoColor=f4a460" />
   </a>
 </p>
