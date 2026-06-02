@@ -8,7 +8,7 @@ and learning by creating real-world projects 🌎.
 </h4>
 
 <a href=#>
-  <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
+  <img src="https://github.com/user-attachments/assets/0f919e1a-741d-4d22-9347-b94a6dd9b124"
        alt="Tech"
        align="right"
        width="50%">
